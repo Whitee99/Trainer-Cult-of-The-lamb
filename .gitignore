@@ -1,0 +1,16 @@
+__pycache__/
+build/
+dist/
+tools/
+validation.json
+preview*.png
+*.bak
+tools/*.dll
+tools/*.exe
+tools/*-il.txt
+tools/il.txt
+tools/types.txt
+tools/faith.txt
+tools/more.txt
+tools/selected.txt
+tools/matches.txt
